@@ -1,0 +1,21 @@
+body {
+	color: black;
+	font-family: Helvetica,Arial;
+}
+
+#tablacaja {
+	width: 65%;
+}
+
+.mod{
+	 background: #71AF5A;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.select{
+	background-color: #95a5a6;
+}
+.yellow{
+	background-color: yellow;
+}

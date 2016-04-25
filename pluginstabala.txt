@@ -1,0 +1,3 @@
+https://www.dynatable.com/
+http://codepen.io/underthex/pen/CxjAk
+https://datatables.net/examples/api/select_single_row.html
